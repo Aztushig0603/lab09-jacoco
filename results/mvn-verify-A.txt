@@ -27,7 +27,7 @@
 [INFO]  T E S T S
 [INFO] -------------------------------------------------------
 [INFO] Running mn.edu.must.sqat.ScholarshipCalculatorTest
-[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.110 s -- in mn.edu.must.sqat.ScholarshipCalculatorTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.125 s -- in mn.edu.must.sqat.ScholarshipCalculatorTest
 [INFO] 
 [INFO] Results:
 [INFO] 
@@ -35,7 +35,6 @@
 [INFO] 
 [INFO] 
 [INFO] --- jar:3.4.1:jar (default-jar) @ lab09-jacoco ---
-[INFO] Building jar: E:\Aztushig\4_Course\lab09-jacoco\starter\target\lab09-jacoco-1.0.jar
 [INFO] 
 [INFO] --- jacoco:0.8.12:report (report) @ lab09-jacoco ---
 [INFO] Loading execution data file E:\Aztushig\4_Course\lab09-jacoco\starter\target\jacoco.exec
@@ -43,6 +42,6 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  3.901 s
-[INFO] Finished at: 2026-11-10T21:34:50+08:00
+[INFO] Total time:  5.119 s
+[INFO] Finished at: 2026-11-10T21:45:19+08:00
 [INFO] ------------------------------------------------------------------------
