@@ -40,4 +40,5 @@ class ScholarshipCalculatorTest {
     void scholarship_returns100Percent() {
         assertEquals(100, calculator.scholarship(3.9, 16, false));
     }
+    
 }
